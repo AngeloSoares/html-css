@@ -1,6 +1,6 @@
 # html-css
  
-Curso de HTML5 e CSS# do CursoemVideo, ministrado por Gustavo Guanabara.
+Curso de HTML5 e CSS3 do CursoemVideo, ministrado por Gustavo Guanabara.
 
 
 
